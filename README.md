@@ -41,7 +41,7 @@ Fora do mundo da programação, gosto de:
 ## 🎒 Experiência e Atuação
 
 - 💼 Atualmente trabalho na Prefeitura Municipal de Pedra Dourada, atuando no Setor de Contabilidade. Realizo a emissão de notas de empenho do município e sou uma ponte essencial entre os setores de Licitação e Tesouraria, garantindo que os processos fluam corretamente e respeitem os trâmites legais.
-- 🧠 Participação ativa em projetos acadêmicos e científicos
+- 🧠 Participação ativa em projetos pessoais, acadêmicos e científicos
 - 🛠️ Desenvolvimento de um portfólio com foco em tecnologias modernas
 
 ---
@@ -63,26 +63,6 @@ Fora do mundo da programação, gosto de:
 
 ---
 
-## 📚 Em constante aprendizado
-
-Atualmente focado em:
-
-- Arquitetura de APIs com Node.js + Express
-- Autocomplete com IA e interfaces inteligentes
-- Integração coesa entre front-end e back-end
-- Projetos reais com boas práticas de organização
-
----
-
-## 📂 Projetos em destaque
-
-| Projeto                             | Descrição                                                                 |
-|-------------------------------------|---------------------------------------------------------------------------|
-| **[ejop-site](https://ejop-site.vercel.app)** | Site institucional criado com V0 da Vercel  |
-| **Gerador Inteligente de Editais**  | Sistema web com IA para criação automatizada de editais públicos         |
-| **Automação Acadêmica**             | Sistema para controle de prazos acadêmicos com Google Apps + n8n     |
-
----
 
 ## 📊 GitHub Stats
 
