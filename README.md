@@ -1,17 +1,13 @@
 # 👋 Fala pessoal, eu sou o Enzo José Oliveira Pereira
 
-🎓 **Estudante de Sistemas de Informação** na UEMG  
-💻 **Desenvolvedor web em formação**   
-🚀 Apaixonado por tecnologia, inovação e soluções criativas  
-📍 Pedra Dourada - MG
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Desenvolvedor+Web+em+Formação;Apaixonado+por+tecnologia;Focado+em+back-end+com+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Desenvolvedor+full+stack+em+Formação)](https://git.io/typing-svg)
 
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um estudante de **Sistemas de Informação** na **UEMG – Unidade Carangola**, atualmente no 6º período. Tenho me aprofundado na área de **desenvolvimento web**, com foco principal no **back-end**, utilizando tecnologias como **Node.js**, **Express** e **bancos de dados relacionais**. Também estou desenvolvendo habilidades em **React** no front-end, utilizando **Tailwind CSS** para estilização.
+Sou um estudante de **Sistemas de Informação** na **UEMG – Unidade Carangola**, atualmente no 6º período. Tenho me aprofundado na área da **Programação**, utilizando tecnologias como **Node.js**, **Express** e **bancos de dados relacionais** no back-end. Também estou desenvolvendo habilidades em **React** no front-end, utilizando **Tailwind CSS** para estilização.
 Além disso, sou um entusiasta de Inteligência Artificial e Automação, explorando como ferramentas como n8n podem otimizar processos e criar soluções mais inteligentes e eficientes. Meu objetivo é ir além do desenvolvimento tradicional, integrando tecnologias que realmente transformem o dia a dia.
 
 ---
@@ -26,15 +22,6 @@ Fora do mundo da programação, gosto de:
 - 🎸 Ouvir **rock clássico**, principalmente a **playlist do Dean Winchester** (AC/DC, Black Sabbath, Kansas...)
 - 🕹️ Jogar games no PC e curtir boas experiências digitais
 - 🤝 Estar sempre aprendendo, explorando e compartilhando conhecimento com amigos e colegas de profissão
-
----
-
-## 🎯 Objetivos
-
-- Me tornar um desenvolvedor web completo (full stack)
-- Criar sistemas eficientes e bem estruturados
-- Aprimorar constantemente minhas habilidades com JavaScript, TypeScript, bancos de dados e ferramentas modernas de desenvolvimento
-- Integrar IA em projetos práticos e úteis no dia a dia
 
 ---
 
