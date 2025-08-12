@@ -21,7 +21,7 @@
 </div>
 
 - **Front-End:** HTML5, CSS3, JavaScript, React, TailwindCSS  
-- **Back-End:** Node.js, Express, PHP (básico)  
+- **Back-End:** Node.js, Express,NextJs, PHP (básico)  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Ferramentas e Outros:** Git, GitHub, Docker, n8n, Linux Ubuntu, Postman  
 
