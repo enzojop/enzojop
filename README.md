@@ -14,11 +14,11 @@ Sou estudante de Sistemas de Informação na UEMG – Unidade Carangola, com exp
 
 ## 💻 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,git,github,tailwind,linux,docker,postgres,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,git,github,tailwind,linux,docker,postgres,mysql" alt="Tech Stack" />
 </div>
 
 - **Front-End:** HTML5, CSS3, JavaScript, React, TailwindCSS  
-- **Back-End:** Node.js, Express,NextJs, PHP (básico)  
+- **Back-End:** Node.js, Express, PHP (básico)  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Ferramentas e Outros:** Git, GitHub, Docker, n8n, Linux Ubuntu, Postman  
 
