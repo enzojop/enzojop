@@ -1,10 +1,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&center=false&vCenter=true&width=435&lines=Olá,+eu+sou+o+Enzo+Oliveira)](https://git.io/typing-svg)
-## 💫 Sobre mim  
-🎓 Estudante de **Sistemas de Informação** na UEMG – Unidade Carangola.  
-🛠️ Experiência prática em **desenvolvimento de sistemas**, automação de processos e integração de APIs.  
-💻 Foco atual em **Node.js** e **React**, criando soluções modernas, escaláveis e com alta usabilidade.  
-🚀 Buscando atuar no desenvolvimento de software, aplicando boas práticas e contribuindo para projetos inovadores. Tenho grande interesse em **arquitetura de software**, **boas práticas de programação** e **integração de IA** para otimizar fluxos e gerar valor para empresas e usuários. Já desenvolvi projetos que envolvem desde **aplicações web full-stack** até **automação de processos com n8n** e **painéis de visualização de dados**.  
+##  Sobre mim  
+Sou estudante de Sistemas de Informação na UEMG – Unidade Carangola, com experiência prática em desenvolvimento de sistemas, automação de processos e integração de APIs. Atualmente, foco meus estudos em Node.js e React, criando soluções modernas, escaláveis e com alta usabilidade. Busco atuar no desenvolvimento de software, aplicando boas práticas e contribuindo para projetos inovadores. Tenho interesse em arquitetura de software, programação limpa e integração de IA para otimizar fluxos e gerar valor para empresas e usuários. Já desenvolvi projetos que vão desde aplicações web full-stack até automação de processos com n8n e criação de painéis de visualização de dados.
 
 ---
 
