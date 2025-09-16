@@ -6,10 +6,10 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts,php)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,ts,react,vscode,postman,mysql,mongodb,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,vscode,postman,mysql,mongodb,git,github,linux)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
