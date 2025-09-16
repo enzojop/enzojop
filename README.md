@@ -1,38 +1,27 @@
+<h1 align="center"> Olá, eu sou Enzo J O Pereira</h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&center=false&vCenter=true&width=435&lines=Olá,+eu+sou+o+Enzo+Oliveira)](https://git.io/typing-svg)
-##  Sobre mim  
-Sou estudante de Sistemas de Informação na UEMG – Unidade Carangola, com experiência prática em desenvolvimento de sistemas, automação de processos e integração de APIs. Atualmente, foco meus estudos em Node.js e React, criando soluções modernas, escaláveis e com alta usabilidade. Busco atuar no desenvolvimento de software, aplicando boas práticas e contribuindo para projetos inovadores. Tenho interesse em arquitetura de software, programação limpa e integração de IA para otimizar fluxos e gerar valor para empresas e usuários. Já desenvolvi projetos que vão desde aplicações web full-stack até automação de processos com n8n e criação de painéis de visualização de dados.
-
----
-
-## 🌐 Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-oliveira-162b97271)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo.jop05/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzopereira6823@gmail.com)  
-
----
-
-## 💻 Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,git,github,tailwind,linux,docker,postgres,mysql" alt="Tech Stack" />
-</div>
-
-- **Front-End:** HTML5, CSS3, JavaScript, React, TailwindCSS  
-- **Back-End:** Node.js, Express, PHP (básico)  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Ferramentas e Outros:** Git, GitHub, Docker, n8n, Linux Ubuntu, Postman  
+<p align="center">
+  💻 Estudante de Programação | 👨‍💻 Desenvolvedor Web
+</p><br><br>
 
 
----
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=javascript,php)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,ts,react,vscode,postman,mysql,mongodb,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-enzopereira6823@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzopereira6823@gmail.com)](mailto:Enzo)
+[![Linkedin: Ellen](https://img.shields.io/badge/-enzooliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-oliveira-162b97271/)](https://www.linkedin.com/in/enzo-oliveira-162b97271/)
+[![Instagram](https://img.shields.io/badge/-enzojop05-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/enzo.jop05/)](https://www.instagram.com/enzo.jop05/) <br><br>
+
 
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enzojop&show_icons=true&theme=react&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzojop&layout=compact&theme=react&hide_border=true" width="48%" />
-</div>
+</div><br><br>
 
-
----
-
-> 💡 Este repositório representa não só meu aprendizado técnico, mas também minha evolução como profissional de TI.  
-> Obrigado por visitar meu perfil! 🚀
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você!  <br><br>
