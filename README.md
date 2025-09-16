@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-enzopereira6823@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzopereira6823@gmail.com)](mailto:Enzo)
-[![Linkedin: Ellen](https://img.shields.io/badge/-enzooliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-oliveira-162b97271/)](https://www.linkedin.com/in/enzo-oliveira-162b97271/)
+[![Linkedin: Enzo](https://img.shields.io/badge/-enzooliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-oliveira-162b97271/)](https://www.linkedin.com/in/enzo-oliveira-162b97271/)
 [![Instagram](https://img.shields.io/badge/-enzojop05-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/enzo.jop05/)](https://www.instagram.com/enzo.jop05/) <br><br>
 
 
