@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Enzo J O Pereira</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 👨‍💻 Desenvolvedor Web
+  💻 Estudante de TI | 👨‍💻 Desenvolvedor Web
 </p><br><br>
 
 
