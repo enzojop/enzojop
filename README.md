@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou Enzo J O Pereira</h1>
+<h1 align="center"> Olá, eu sou Enzo José Oliveira Pereira</h1>
 
 <p align="center">
   💻 Estudante de TI | 👨‍💻 Desenvolvedor Web
